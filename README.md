@@ -40,6 +40,9 @@ This project is a simple version of the classic **Snake Game** built using **Pyt
 3. Eat the red food to grow and score points.
 4. Avoid hitting the wall or yourself.
 
+
+
+<img src="result/Screenshot 2025-07-23 233652.png" alt="snake game interface">
 ---
 
 ## 📌 File Structure (if split)
